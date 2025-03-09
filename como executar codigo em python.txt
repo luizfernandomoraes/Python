@@ -1,0 +1,37 @@
+Como executar o código da calculadora em Python
+Este código implementa uma calculadora simples.
+
+
+Passo 1: Executar o código depois de salvar em um diretório ou arquivo python e depois abra seu terminal
+
+python calculadora.py
+
+Se você usa Python 3 ,
+
+python3 calculadora.py
+Passo 2: Interaja com a calculadora depois de executar
+
+Selecione a operação:
+1 - Soma
+2 - Subtração
+3 - Multiplicação
+4 - Divisão
+Digite a opção (1/2/3/4):
+Digite um número de 1 a 4 para
+Digite dois números quando solicitado
+Veja o resultadoda operação.
+
+
+Erro! Divisão por zero não é permitida.
+Explicação do código
+O
+O
+Veja a opção
+escolha a opção:
+Soma ( 1): soma
+Subtração ( 2):
+Multiplicação (3):
+Divisão ( 4): dcom proteção contra divisão por zero .
+Se o usuário inserir algo inválido, o programa dará erro.
+Conclusão
+Este código permite que o usuário realize operações matemáticas básicas diretamente no terminal. Para rodá-lo, basta salvar o código em um arquivo Python 
